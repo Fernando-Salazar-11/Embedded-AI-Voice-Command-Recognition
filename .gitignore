@@ -1,0 +1,38 @@
+# STM32CubeIDE build outputs
+
+Debug/
+Release/
+build/
+
+# Compiled binaries and intermediate files
+
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.lst
+*.su
+*.cyclo
+*.gcda
+*.gcno
+
+# Temporary and backup files
+
+*.tmp
+*.bak
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Local IDE workspace
+
+.metadata/
+
+# Local logs
+
+*.log
